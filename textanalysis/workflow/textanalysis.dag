@@ -1,0 +1,4 @@
+JOB TextFilter text_filter.submit
+JOB Plot_Generator plot_generator.submit
+SCRIPT POST Plot_Generator Cleanup.sh /home/CC412/juarez.hernandez/mysrc/textanalysis/tmp *.txt
+PARENT TextFilter CHILD Plot_Generator

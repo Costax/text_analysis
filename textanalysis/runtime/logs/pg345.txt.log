@@ -1,0 +1,312 @@
+000 (342.005.000) 05/09 17:16:50 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+...
+001 (342.005.000) 05/09 17:17:03 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (342.005.000) 05/09 17:17:03 Image size of job updated: 36140
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (342.005.000) 05/09 17:17:04 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        9        1 109263778
+	   Memory (MB)          :        0        1       975
+...
+000 (352.005.000) 05/09 17:27:09 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+...
+001 (352.005.000) 05/09 17:27:11 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (352.005.000) 05/09 17:27:11 Image size of job updated: 100876
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (352.005.000) 05/09 17:27:12 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        9        1 109263660
+	   Memory (MB)          :        0        1       975
+...
+000 (502.005.000) 05/10 16:22:59 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (502.005.000) 05/10 16:23:16 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (502.005.000) 05/10 16:23:16 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (502.005.000) 05/10 16:23:17 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        9        1 109263094
+	   Memory (MB)          :        0        1       975
+...
+000 (511.005.000) 05/10 16:30:16 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (511.005.000) 05/10 16:30:33 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (511.005.000) 05/10 16:30:33 Image size of job updated: 97164
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (511.005.000) 05/10 16:30:34 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        9        1 109263032
+	   Memory (MB)          :        0        1       975
+...
+000 (515.005.000) 05/10 16:36:53 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (515.005.000) 05/10 16:37:12 Job executing on host: <10.10.11.101:39324?addrs=10.10.11.101-39324>
+...
+006 (515.005.000) 05/10 16:37:13 Image size of job updated: 156680
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+004 (515.005.000) 05/10 16:37:13 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        1        1 106570412
+	   Memory (MB)          :        0        1       975
+...
+009 (515.005.000) 05/10 16:37:13 Job was aborted by the user.
+	via condor_rm (by user juarez.hernandez)
+...
+000 (545.005.000) 05/10 16:53:10 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (545.005.000) 05/10 16:53:16 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (545.005.000) 05/10 16:53:16 Image size of job updated: 36140
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (545.005.000) 05/10 16:53:17 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        9        1 109262892
+	   Memory (MB)          :        0        1       975
+...
+000 (570.005.000) 05/10 17:01:49 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (570.005.000) 05/10 17:02:06 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (570.005.000) 05/10 17:02:06 Image size of job updated: 18036
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (570.005.000) 05/10 17:02:07 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        9        1 109262744
+	   Memory (MB)          :        0        1       975
+...
+000 (601.005.000) 05/10 17:09:07 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (601.005.000) 05/10 17:09:16 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (601.005.000) 05/10 17:09:16 Image size of job updated: 36136
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (601.005.000) 05/10 17:09:17 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10        1 109262601
+	   Memory (MB)          :        0        1       975
+...
+009 (601.005.000) 05/10 17:09:17 Job was aborted by the user.
+	via condor_rm (by user juarez.hernandez)
+...
+000 (620.005.000) 05/10 17:12:15 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (620.005.000) 05/10 17:12:31 Job executing on host: <10.10.11.101:39324?addrs=10.10.11.101-39324>
+...
+006 (620.005.000) 05/10 17:12:35 Image size of job updated: 174724
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (620.005.000) 05/10 17:12:35 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        1        1 106558876
+	   Memory (MB)          :        0        1       975
+...
+000 (645.005.000) 05/10 17:20:02 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (645.005.000) 05/10 17:20:16 Job executing on host: <10.10.11.101:39324?addrs=10.10.11.101-39324>
+...
+006 (645.005.000) 05/10 17:20:20 Image size of job updated: 174860
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (645.005.000) 05/10 17:20:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        1        1 106557138
+	   Memory (MB)          :        0        1       975
+...
+000 (648.005.000) 05/10 17:20:32 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: Plot_Generator
+...
+001 (648.005.000) 05/10 17:20:38 Job executing on host: <10.10.11.101:39324?addrs=10.10.11.101-39324>
+...
+006 (648.005.000) 05/10 17:20:42 Image size of job updated: 292312
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (648.005.000) 05/10 17:20:42 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:02, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:02, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        1        1 106557138
+	   Memory (MB)          :        0        1       975
+...
+000 (700.005.000) 05/10 17:28:28 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (700.005.000) 05/10 17:28:43 Job executing on host: <10.10.11.101:39324?addrs=10.10.11.101-39324>
+...
+006 (700.005.000) 05/10 17:28:47 Image size of job updated: 175516
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (700.005.000) 05/10 17:28:47 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:03, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:03, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        1        1 106554264
+	   Memory (MB)          :        0        1       975
+...
+000 (703.005.000) 05/10 17:29:03 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: Plot_Generator
+...
+001 (703.005.000) 05/10 17:29:10 Job executing on host: <10.10.11.101:39324?addrs=10.10.11.101-39324>
+...
+006 (703.005.000) 05/10 17:29:14 Image size of job updated: 293316
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (703.005.000) 05/10 17:29:15 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:03, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:03, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        1        1 106554264
+	   Memory (MB)          :        0        1       975
+...

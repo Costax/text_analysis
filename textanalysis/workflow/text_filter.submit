@@ -1,0 +1,14 @@
+Universe    = vanilla
+initialdir  = /home/CC412/juarez.hernandez/mysrc/textanalysis/src/
+Executable  = text_filter.sh 
+script_name    = text_filter.R
+script_path  = /home/CC412/juarez.hernandez/mysrc/textanalysis/src 
+stopwd_path  = /home/CC412/juarez.hernandez/mysrc/textanalysis/dictionary/long-stop.txt
+tmp_path     = /home/CC412/juarez.hernandez/mysrc/textanalysis/tmp/
+
+Arguments   = "$(script_path) $(script_name) $(FILE) $(stopwd_path) $(tmp_path)"
+Log    = /home/CC412/juarez.hernandez/mysrc/textanalysis/runtime/logs/$Fnx(FILE).log
+Error  = /home/CC412/juarez.hernandez/mysrc/textanalysis/runtime/error/$Fnx(FILE).error
+Queue FILE MATCHING (
+    /home/CC412/juarez.hernandez/mysrc/textanalysis/in/*.txt
+)

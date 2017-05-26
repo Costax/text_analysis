@@ -1,0 +1,352 @@
+000 (342.002.000) 05/09 17:16:50 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+...
+022 (342.002.000) 05/09 17:17:02 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot3@paralab3.cetys.mx <10.10.11.105:33044?addrs=10.10.11.105-33044>
+...
+024 (342.002.000) 05/09 17:17:02 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot3@paralab3.cetys.mx, rescheduling job
+...
+001 (342.002.000) 05/09 17:17:05 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (342.002.000) 05/09 17:17:05 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (342.002.000) 05/09 17:17:06 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        9        1 109263778
+	   Memory (MB)          :        0        1       975
+...
+000 (352.002.000) 05/09 17:27:09 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+...
+022 (352.002.000) 05/09 17:27:10 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot4@paralab3.cetys.mx <10.10.11.105:33044?addrs=10.10.11.105-33044>
+...
+024 (352.002.000) 05/09 17:27:10 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot4@paralab3.cetys.mx, rescheduling job
+...
+001 (352.002.000) 05/09 17:27:13 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (352.002.000) 05/09 17:27:13 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (352.002.000) 05/09 17:27:14 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        9        1 109263660
+	   Memory (MB)          :        0        1       975
+...
+000 (502.002.000) 05/10 16:22:59 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+022 (502.002.000) 05/10 16:23:15 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot3@paralab3.cetys.mx <10.10.11.105:33044?addrs=10.10.11.105-33044>
+...
+024 (502.002.000) 05/10 16:23:15 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot3@paralab3.cetys.mx, rescheduling job
+...
+001 (502.002.000) 05/10 16:23:18 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (502.002.000) 05/10 16:23:18 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (502.002.000) 05/10 16:23:19 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10        1 109263094
+	   Memory (MB)          :        0        1       975
+...
+009 (502.002.000) 05/10 16:23:19 Job was aborted by the user.
+	via condor_rm (by user juarez.hernandez)
+...
+000 (511.002.000) 05/10 16:30:16 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+022 (511.002.000) 05/10 16:30:32 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot3@paralab3.cetys.mx <10.10.11.105:33044?addrs=10.10.11.105-33044>
+...
+024 (511.002.000) 05/10 16:30:32 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot3@paralab3.cetys.mx, rescheduling job
+...
+001 (511.002.000) 05/10 16:30:35 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (511.002.000) 05/10 16:30:35 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (511.002.000) 05/10 16:30:36 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10        1 109263032
+	   Memory (MB)          :        0        1       975
+...
+000 (515.002.000) 05/10 16:36:53 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+022 (515.002.000) 05/10 16:37:12 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot3@paralab3.cetys.mx <10.10.11.105:33044?addrs=10.10.11.105-33044>
+...
+024 (515.002.000) 05/10 16:37:12 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot3@paralab3.cetys.mx, rescheduling job
+...
+009 (515.002.000) 05/10 16:37:13 Job was aborted by the user.
+	via condor_rm (by user juarez.hernandez)
+...
+000 (545.002.000) 05/10 16:53:10 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+022 (545.002.000) 05/10 16:53:15 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot3@paralab3.cetys.mx <10.10.11.105:33044?addrs=10.10.11.105-33044>
+...
+024 (545.002.000) 05/10 16:53:15 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot3@paralab3.cetys.mx, rescheduling job
+...
+001 (545.002.000) 05/10 16:53:18 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (545.002.000) 05/10 16:53:18 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (545.002.000) 05/10 16:53:19 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10        1 109262892
+	   Memory (MB)          :        0        1       975
+...
+000 (570.002.000) 05/10 17:01:49 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+022 (570.002.000) 05/10 17:02:05 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot3@paralab3.cetys.mx <10.10.11.105:33044?addrs=10.10.11.105-33044>
+...
+024 (570.002.000) 05/10 17:02:05 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot3@paralab3.cetys.mx, rescheduling job
+...
+001 (570.002.000) 05/10 17:02:08 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (570.002.000) 05/10 17:02:08 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (570.002.000) 05/10 17:02:09 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10        1 109262755
+	   Memory (MB)          :        0        1       975
+...
+009 (570.002.000) 05/10 17:02:09 Job was aborted by the user.
+	via condor_rm (by user juarez.hernandez)
+...
+000 (601.002.000) 05/10 17:09:07 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (601.002.000) 05/10 17:09:14 Job executing on host: <10.10.11.107:42335?addrs=10.10.11.107-42335>
+...
+006 (601.002.000) 05/10 17:09:14 Image size of job updated: 100876
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (601.002.000) 05/10 17:09:15 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	141  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	141  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        9        1 109262601
+	   Memory (MB)          :        0        1       975
+...
+000 (620.002.000) 05/10 17:12:15 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+022 (620.002.000) 05/10 17:12:31 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot3@paralab3.cetys.mx <10.10.11.105:33044?addrs=10.10.11.105-33044>
+...
+024 (620.002.000) 05/10 17:12:39 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot3@paralab3.cetys.mx, rescheduling job
+...
+009 (620.002.000) 05/10 17:12:39 Job was aborted by the user.
+	via condor_rm (by user juarez.hernandez)
+...
+000 (645.002.000) 05/10 17:20:02 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+022 (645.002.000) 05/10 17:20:11 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot3@paralab3.cetys.mx <10.10.11.105:51078?addrs=10.10.11.105-51078>
+...
+024 (645.002.000) 05/10 17:20:11 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot3@paralab3.cetys.mx, rescheduling job
+...
+001 (645.002.000) 05/10 17:20:13 Job executing on host: <10.10.11.101:39324?addrs=10.10.11.101-39324>
+...
+006 (645.002.000) 05/10 17:20:16 Image size of job updated: 174364
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (645.002.000) 05/10 17:20:16 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:02, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:02, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        1        1 106557138
+	   Memory (MB)          :        0        1       975
+...
+000 (648.002.000) 05/10 17:20:32 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: Plot_Generator
+...
+001 (648.002.000) 05/10 17:20:34 Job executing on host: <10.10.11.101:39324?addrs=10.10.11.101-39324>
+...
+006 (648.002.000) 05/10 17:20:36 Image size of job updated: 280460
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (648.002.000) 05/10 17:20:36 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        1        1 106557122
+	   Memory (MB)          :        0        1       975
+...
+000 (700.002.000) 05/10 17:28:28 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: TextFilter
+...
+001 (700.002.000) 05/10 17:28:37 Job executing on host: <10.10.11.101:39324?addrs=10.10.11.101-39324>
+...
+006 (700.002.000) 05/10 17:28:40 Image size of job updated: 174364
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (700.002.000) 05/10 17:28:40 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:02, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:02, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        1        1 106554264
+	   Memory (MB)          :        0        1       975
+...
+000 (703.002.000) 05/10 17:29:03 Job submitted from host: <10.10.11.101:42302?addrs=10.10.11.101-42302>
+    DAG Node: Plot_Generator
+...
+001 (703.002.000) 05/10 17:29:06 Job executing on host: <10.10.11.101:39324?addrs=10.10.11.101-39324>
+...
+006 (703.002.000) 05/10 17:29:08 Image size of job updated: 279088
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (703.002.000) 05/10 17:29:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :        1        1 106554264
+	   Memory (MB)          :        0        1       975
+...

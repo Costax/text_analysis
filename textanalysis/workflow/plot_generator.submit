@@ -1,0 +1,13 @@
+Universe    = vanilla
+initialdir  = /home/CC412/juarez.hernandez/mysrc/textanalysis/src/
+Executable  = plot_generator.sh 
+script_name  = plot_generator.R
+script_path  = /home/CC412/juarez.hernandez/mysrc/textanalysis/src 
+output_path  = /home/CC412/juarez.hernandez/mysrc/textanalysis/out/
+
+Arguments   = "$(script_path) $(script_name) $(FILE) $(output_path)"
+Log    = /home/CC412/juarez.hernandez/mysrc/textanalysis/runtime/logs/$Fnx(FILE).log
+Error  = /home/CC412/juarez.hernandez/mysrc/textanalysis/runtime/error/$Fnx(FILE).error
+Queue FILE MATCHING (
+    /home/CC412/juarez.hernandez/mysrc/textanalysis/tmp/*.txt
+)
